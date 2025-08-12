@@ -41,3 +41,4 @@ Under præsentationen skal du:
 - Hvor tæt dit design ligger på det valgte i **desktop-visning**.
 - Din evne til at analysere og genskabe layout og stil ud fra en visuel reference.
 - **Valgfrit**: Bonus for mobilvenligt design.
+
